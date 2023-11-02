@@ -1,0 +1,31 @@
+.tamLogo {
+    width: 170px;
+}
+
+.encabezado {
+    border-top: 20px solid #ccc;
+    background-color: black;
+}
+
+.fuentesNav {
+    font-size: 15px;
+    text-transform: uppercase;
+    -webkit-text-fill-color: #ccc;
+}
+
+.fuentesNav a:hover {
+    background-color: gray;
+    color: black;
+
+}
+
+
+.tituloJoyeria {
+    background-color: black;
+    color: #ccc;
+    text-align:center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 16px;
+
+}
